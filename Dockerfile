@@ -18,7 +18,7 @@ EXPOSE 8000
 CMD ["gunicorn", "--bind", "0.0.0.0:8000", "core.wsgi:application"]
 =======
 # =============================================
-# Yemen LPR - Final Production Dockerfile
+# Rased Plate AI - Final Production Dockerfile
 # =============================================
 
 # --- Stage 1: Frontend Builder ---

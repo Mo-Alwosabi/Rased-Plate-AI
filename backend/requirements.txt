@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 =======
 # =============================================
-# Yemen LPR - Backend Requirements
+# Rased Plate AI - Backend Requirements
 # =============================================
 # Production-safe: NO system dependencies needed
 # Uses opencv-python-headless (no GUI/X11)

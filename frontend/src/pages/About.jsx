@@ -136,7 +136,7 @@ function About() {
             <div className="team-grid">
               <div className="team-member highlight">
                 <div className="team-avatar">👨‍💻</div>
-                <div className="team-name">Mohamed Mohamed Yahya Al-Hajj</div>
+                <div className="team-name">Mohamed Mohamed Yahya Alwosabij</div>
 <<<<<<< HEAD
                 <div className="team-role">Team Lead & Full Stack</div>
 =======
